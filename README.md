@@ -23,7 +23,7 @@ L'un des objectifs clés de mon stage était de concevoir et de développer un n
 
 5. **Formation :** Une fois le site prêt, j'ai dispensé une formation aux membres de l'association pour qu'ils puissent gérer et mettre à jour le contenu du site de manière autonome.
 
-**Restructuration Commerciale**
+# Restructuration Commerciale
 
 Outre la création du site web, j'ai également été impliqué dans la restructuration commerciale de l'association. L'objectif était d'améliorer la visibilité de l'association sur le marché et d'augmenter le nombre de ventes de billets pour les concerts. Voici les principales étapes de cette restructuration :
 
@@ -34,7 +34,7 @@ Outre la création du site web, j'ai également été impliqué dans la restruct
 3. **Partenariats :** J'ai travaillé sur l'établissement de partenariats avec d'autres acteurs du secteur musical (d'autres associations musicales organisants concerts et festivals), tels que des groupes locaux et des salles de concert. Ces partenariats ont contribué à élargir la portée de l'association et à attirer de nouveaux publics.
 
 
-**Conclusion**
+# Conclusion
 
 Mon stage au sein de l'association St Jacques d'Albas a été une expérience extrêmement enrichissante. La création du site web et la restructuration commerciale m'ont permis d'appliquer mes compétences en développement web et en marketing stratégique dans un contexte réel. J'ai acquis une meilleure compréhension de l'industrie de la musique et des défis auxquels les associations similaires sont confrontées. Je suis convaincue que les initiatives mises en place contribueront positivement à l'association et à son succès futur. Je tiens à remercier toute l'équipe pour leur soutien et leur collaboration tout au long de cette expérience.
 
