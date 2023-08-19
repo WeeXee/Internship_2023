@@ -38,6 +38,8 @@ Outre la création du site web, j'ai également été impliqué dans la restruct
 
 Mon stage au sein de l'association St Jacques d'Albas a été une expérience extrêmement enrichissante. La création du site web et la restructuration commerciale m'ont permis d'appliquer mes compétences en développement web et en marketing stratégique dans un contexte réel. J'ai acquis une meilleure compréhension de l'industrie de la musique et des défis auxquels les associations similaires sont confrontées. Je suis convaincue que les initiatives mises en place contribueront positivement à l'association et à son succès futur. Je tiens à remercier toute l'équipe pour leur soutien et leur collaboration tout au long de cette expérience.
 
+Le site : https://stjacquesmusique.com/
+
 
 **Signé : Pauline Cabée**
 
